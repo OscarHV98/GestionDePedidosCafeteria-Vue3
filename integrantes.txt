@@ -1,0 +1,10 @@
+Practica1 Vue3
+
+Nombre del integrante:
+- Oscar Herbas Velasco
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm run dev || npm run serve
+
+nota: se realizo el proyecto con vite.
