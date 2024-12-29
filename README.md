@@ -22,6 +22,6 @@ Este proyecto es una aplicación web para la gestión de pedidos en una cafeter�
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/tu-usuario/gestion-pedidos-cafeteria.git
-   cd gestion-pedidos-cafeteria
+   git clone https://github.com/OscarHV98/GestionDePedidosCafeteria-Vue3.git
+   cd cafeteria-management
 
